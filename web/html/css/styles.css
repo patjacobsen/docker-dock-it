@@ -1,0 +1,136 @@
+body{
+    background-color: #F6F6F6;
+    font-family: "Euphemia UCAS";
+}
+
+#logo{
+    width: 18%;
+    margin: 1em;
+}
+
+.navbar{
+    background-color: darkkhaki;
+}
+
+a:hover.navbar-brand{
+    color: white;
+}
+
+.navbar-brand{
+    font-size: 1rem;
+    color: white;
+    font-family: "PT Serif";
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: right;
+    margin-right: 2em;
+    font-size: 1rem;
+    color: white !important;
+}
+
+.navbar-toggler{
+    justify-content: right;
+    margin-right: 2em;
+    font-size: 1rem;
+    color: white !important;
+    border: 1.5px solid white;
+
+}
+
+a.nav-link{
+    color: white;
+    font-size: 1rem;
+    margin-right: .75em;
+}
+
+div.container{
+    padding-right: 0;
+    padding-left: 0;
+    color: #414141;
+}
+
+.title{
+    text-align: center;
+    margin: 1em;
+    font-family: "PT Serif";
+    font-size: 2rem;
+}
+
+.homep{
+    width: 70%;
+    margin: 0 auto;
+    padding: 1em;
+    text-align: left;
+}
+
+.ball{
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.col{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+}
+
+.col1 img{
+    padding: 0;
+    width: 100%;
+}
+
+.col2 img{
+    width: 100%;
+}
+
+#chktop1{
+    padding-right: 0;
+}
+
+#chktop2{
+    padding-left: 0;
+}
+
+#market{
+    width: 100%;
+    padding: 2em;
+}
+
+.asd{
+    margin-top: 0%;
+}
+
+.page{
+    float: right;
+    margin-bottom: .5em;
+}
+
+a.addchk{
+    margin-bottom: 1em;
+}
+
+.thanks{
+    text-align: center;
+}
+
+#butt{
+    width: 20%;
+    margin: 1em;
+}
+
+.back{
+    margin-top: 1em;
+}
+
+img.qwe{
+    width: 120px;
+    justify-content: center;
+}
+
+.py-3.my-4{
+    background-color: darkkhaki;
+    border: none
+}
